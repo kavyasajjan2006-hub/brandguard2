@@ -22,8 +22,7 @@ import "./App.css";
 import Login from "./pages/login.jsx";
 import Signup from "./pages/signup.jsx";
 
-const API_URL = "https://invisible-peace-revision-opportunities.trycloudflare.com/api";
-
+const API_URL = "https://brandguard-backend-38b2.onrender.com/api";
 
 const EMPTY_BRAND_FORM = {
   name: "",
